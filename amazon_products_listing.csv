@@ -1,3 +1,4 @@
+url,name,price,rating,number_of_reviews
 /Safari-45L-21-OB-BLK/dp/B07BZ5VC4H/,Safari Seek 45 Ltrs Overnighter Expandable Travel Laptop Backpack,2299,4.5,7727
 /Half-Moon-Resistant-Backpack-Compartment/dp/B0BJ32LQ6X/,Half Moon Large 37L Laptop Bag Backpack for menं Women Boys and Girls Luggage Travel Bags with 17.3 inches Laptop Compartment & Rain Cover,689,3.9,3843
 /Number-Backpack-Compartment-Charging-Organizer/dp/B09VTCNN75/,"FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",639,4.1,6654
@@ -46,7 +47,7 @@
 /Storite-Pack-Big-Underbed-Moisture/dp/B07B8K3RQK/,"Storite 2 Pack Moisture Proof Nylon Large Size Underbed Storage Bag For Clothes (54 x 46 x 28 cm) - Black, Rectangular",699,4.4,18117
 /Amazon-Basics-Casual-Backpack-15-6-inch/dp/B09W4WJ1CB/,Amazon Basics 20 ltrs Casual/Travel/College Backpack for 15.6-inch Laptop | Water Resistant Fabric,359,4.0,419
 /BP1501-15-6-inch-Gaming-Laptop-Backpack/dp/B081RLHHCY/,Asus ROG BP1501 39.62 cm (15.6-inch) Gaming Laptop Backpack (Black),1199,4.3,1032
-/WHITECRAFT-Polyester-Waterproof-Backpack-Business/dp/B0CJJQWK72/,WHITECRAFT Polyester 30 Liter Waterproof Backpack for Men & Women| Fits upto 12-17 Inch Laptop Bag | Travel/Business/College/Casual Daypacks,386,0,0,
+/WHITECRAFT-Polyester-Waterproof-Backpack-Business/dp/B0CJJQWK72/,WHITECRAFT Polyester 30 Liter Waterproof Backpack for Men & Women| Fits upto 12-17 Inch Laptop Bag | Travel/Business/College/Casual Daypacks,386,0,0
 /ZOUK-Printed-Handmade-Leather-handles/dp/B07NHYLTY7/,ZOUK Black Floral Printed Handmade Vegan Leather Women's Office Bag for 15.6 inch Laptop with double handles - FloMotif,1549,1099,4.3
 /Dell-Essential-Backpack-15-ES1520P/dp/B07TTCXHRH/,Dell Essential Backpack 15 (ES1520P),1035,6887,4.0
 /Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PKWBW/,"Presto! Oxo-Biodegradable Garbage Bags, Small - 30 bags/roll (Pack of 6, plastic, Black)",259,15909,4.3
@@ -54,7 +55,7 @@
 /DZert-School-Polyester-Backpack-White/dp/B07GXYHFCY/,DZert Clasy Laptop Bag College Bag for Boys Girls 21 L Blue White,339,2612,3.8
 /AUXTER-BLACKY-Duffel-Emboss-Black/dp/B07F2H25NP/,AUXTER Faux Leather 23 Cms Duffle Bag(AUX_GB_LE_Black -SE__0521_Black),429,9382,4.3
 /Lavie-Womens-Closure-Satchel-Handbag_Chocolate/dp/B07DJ9Q1NY/,Lavie Women's Ficus Satchel Bag | Ladies Purse Handbag,1599,4607,4.1
-/TRUE-Anti-Theft-combination-security-charging/dp/B0CJ8WTYFK/,"TRUE HUMAN® Emperor Anti-Theft Laptop Bag, Office bag, college bag With combination security lock and USB charging port(Hybrid)",650,0,0,
+/TRUE-Anti-Theft-combination-security-charging/dp/B0CJ8WTYFK/,"TRUE HUMAN® Emperor Anti-Theft Laptop Bag, Office bag, college bag With combination security lock and USB charging port(Hybrid)",650,0,0
 /Shalimar-Reusable-Vegetable-Multi-Purpose-Storage/dp/B096P271BL/,Shalimar Zip 'N' Lock Reusable Slider Bag (3 Boxes) Combo Pack (Small + Medium + Large) Zip Lock/Vegetable Bag/Freeze/Multi-Purpose Storage Bag (Pack of 45) Color - Natural,289,4078,4.3
 /Purple-Tree-Canvas-Tote-Women/dp/B07PDYTXD7/,"The Purple Tree Canvas Tote Bag For Women - 1 Pc , women tote bag , canvas tote bag , printed tote bag , printed canvas tote bag , stylish bags for women TBAG00422",349,597,4.2
 /Nautica-Leatherette-Comfortable-Travelling-Suitable/dp/B0BQMQQJK4/,"Nautica Duffle Bag for Travel | Stylish Leatherette Luggage | Compact and Comfortable for Travelling | Suitable for Men's and Women's One Size (Black, 15 cms)",1299,76,4.2
@@ -110,37 +111,117 @@
 /Adjustable-Waterproof-Breathable-Anti-Shock-Compatible/dp/B0C58X3CRX/,"Amazon Basics Classic Camera Shoulder Bag, Adjustable Strap, Waterproof material, Breathable Mesh, Anti-Shock, Compatible with Nikon, Canon and Sony Mirrorless Cameras",549,3.6,6
 /DZert-Hello-School-Backpacks-Cartoon/dp/B08M6FS6W8/,DZert Kids School Bag Soft Plush Backpacks Cartoon Boys Girls Baby (2-5 Years),229,3.7,12738
 /Wolpin-Foldable-Shopping-Bag-Grocery/dp/B0B21SYHMB/,"Wolpin Foldable Shopping Bag for Grocery - Folds to Pocket Size, Tote Grocery Shoulder Handbag Travel Bag for Men and Women (40 x 40 cm)",229,3.9,295
-/WILDHORN-Leather-inches-Messenger-MB570/dp/B07M9NKYVK/,WildHorn Leather Messenger Bag for Men/Office Bag for Men I Padded Laptop Compartment with Adjustable Strap I DIMENSION : L-14 inch W-3 inch H-11 inch,"2,309",3.9,266,
-/Amazon-Brand-Solimo-Backpack-litres/dp/B07FQMN9VN/,"Amazon Brand - Solimo Rain & Dust Cover for Backpack (30 Litres, Black)",199,4.2,9420,
-/Gear-DOUBLE-Resistant-Backpack-Navy-Tan/dp/B0BTJ2T26W/,Gear Double Decker 31L Large Water Resistant Faux Leather Anti-Theft Laptop Bag/Backpack/Office Bag for Men/Women (Navy-Tan),985,3.6,46,
-/Fast-Travel-partition-Collage-Backpack/dp/B09XLKF4W4/,Fast Travel School Bag Class 5-10 Large 4 partition 45 L Laptop Collage Office Travel Backpack Unisex,620,4.0,1177,
-/Caprese-Yondella-Womens-Sling-Peach/dp/B07B9FBW14/,Caprese Yondella Women's Sling Bag,999,4.1,1322,
-/Red-Lemon-15-6-inch-Backpacks-Travelling/dp/B0CGZLZRNZ/,"Red Lemon Titan Ultrafit Bange Series 15.6-inch Laptop Bags Backpacks for Men and Women 45L&35L Outdoor and Camping 3in1 Office Bags,Travelling,Backpack","3,597",4.3,329,
-/TRAVEL-POINT-Rucksack-Waterproof-Compartment/dp/B09V82WPTB/,TRAVEL POINT 60 Liters Waterproof Travel Rucksack Backpack for Outdoor/Sports/Camping/Hiking/Trekking Bag for Men and Women with 1 Year Warranty (Black),749,4.0,146,
-/Puma-Unisex-Adult-Backpack-Parisian-9018402/dp/B0BWF418HL/,"Puma Unisex-Adult Big Cat Backpack, Parisian Night (9018402)","1,098",4.1,14,
-/Travel-Duffle-Weekend-Luggage-Sports/dp/B086PYLWS3/,Fur Jaden 25L Travel Duffle Bag for Weekend Trip Cabin Luggage and Gym Sports Duffle for Men and Women,629,4.1,962,
-/Lino-Perros-Womens-Lavender-Handbag/dp/B0CBQ41BYZ/,Lino Perros Women Handbag,989,4.2,1462,
+/WILDHORN-Leather-inches-Messenger-MB570/dp/B07M9NKYVK/,WildHorn Leather Messenger Bag for Men/Office Bag for Men I Padded Laptop Compartment with Adjustable Strap I DIMENSION : L-14 inch W-3 inch H-11 inch,"2,309",3.9,266
+/Amazon-Brand-Solimo-Backpack-litres/dp/B07FQMN9VN/,"Amazon Brand - Solimo Rain & Dust Cover for Backpack (30 Litres, Black)",199,4.2,9420
+/Gear-DOUBLE-Resistant-Backpack-Navy-Tan/dp/B0BTJ2T26W/,Gear Double Decker 31L Large Water Resistant Faux Leather Anti-Theft Laptop Bag/Backpack/Office Bag for Men/Women (Navy-Tan),985,3.6,46
+/Fast-Travel-partition-Collage-Backpack/dp/B09XLKF4W4/,Fast Travel School Bag Class 5-10 Large 4 partition 45 L Laptop Collage Office Travel Backpack Unisex,620,4.0,1177
+/Caprese-Yondella-Womens-Sling-Peach/dp/B07B9FBW14/,Caprese Yondella Women's Sling Bag,999,4.1,1322
+/Red-Lemon-15-6-inch-Backpacks-Travelling/dp/B0CGZLZRNZ/,"Red Lemon Titan Ultrafit Bange Series 15.6-inch Laptop Bags Backpacks for Men and Women 45L&35L Outdoor and Camping 3in1 Office Bags,Travelling,Backpack","3,597",4.3,329
+/TRAVEL-POINT-Rucksack-Waterproof-Compartment/dp/B09V82WPTB/,TRAVEL POINT 60 Liters Waterproof Travel Rucksack Backpack for Outdoor/Sports/Camping/Hiking/Trekking Bag for Men and Women with 1 Year Warranty (Black),749,4.0,146
+/Puma-Unisex-Adult-Backpack-Parisian-9018402/dp/B0BWF418HL/,"Puma Unisex-Adult Big Cat Backpack, Parisian Night (9018402)","1,098",4.1,14
+/Travel-Duffle-Weekend-Luggage-Sports/dp/B086PYLWS3/,Fur Jaden 25L Travel Duffle Bag for Weekend Trip Cabin Luggage and Gym Sports Duffle for Men and Women,629,4.1,962
+/Lino-Perros-Womens-Lavender-Handbag/dp/B0CBQ41BYZ/,Lino Perros Women Handbag,989,4.2,1462
 /PLAYY-BAGS-Polyester-Business-Shoulder/dp/B0CJCBPCBP/,PLAYY BAGS Small 12 L daypack Small Bag for Daily Use - 2 Compartment Mini daypack,224,0,0
-/Travel-Duffle-Premium-Leatherette-Medium/dp/B086MZDG7H/,Fur Jaden Tan Leatherette Gym Bag for Men Women Boys Girls Travel Duffle Weekender Bag 23L,479,4.3,1843,
-/TRAWOC-Travel-Backpack-Versatile-trip-Olivegreen/dp/B0CFFJ9FDQ/,"TRAWOC Travel Backpack - Versatile 30 Litre Laptop Backpack for Men & Women, Ideal Casual Bag for office and day trip.",899,5.0,1,
-/Lavie-Womens-Amara-Ladies-Handbag/dp/B09WYDMMZF/,Lavie Women's Amara Round Potli | Ladies Purse Handbag,299,4.0,87,
-/Half-Moon-Curiosity-Backpack-Resistant/dp/B09S3ZK3N1/,"Half Moon Curiosity 35L Water Resistant 15.6"" Laptop Bag for Men/Backpack for Men, Black | Office Bag for Men/Office Bag for Women with Padded Laptop Compartment | Rain Cover & Slim Durable Backpack",689,3.8,199,
-/Gear-Fastpac-Backpack-Daypack-Black-GreyCamo/dp/B0C27NV331/,Gear Fastpac 11L Casual Backpack/Daypack/Hiking Daypack/Bag for Men/Women (Black-GreyCamo),195,1.0,2,
-/Backpack-Toddler-Animal-Cartoon-New-Blue-Penguin/dp/B089WG34QZ/,Blue Tree Cute Kids Backpack Toddler Bag Plush Animal Cartoon Mini Travel Bag for Baby Girl Boy 1-6 Years (New-Blue-Penguin),266,3.8,325,
-/Safari-Polycarbonate-Hardside-Trolley-Suitcase/dp/B097JKR13B/,Safari Ray 53 cms Small Size Cabin Polycarbonate Hardside Trolley Luggage/Suitcase/Trolley Bag (Wine Red),"1,799",4.5,13,
-/Resistant-Anti-Theft-Crossbody-Travelling-Hands-Free/dp/B084RPQ187/,"Arctic Hunter Sling Bag for Men Stylish Chest Bag with Multip-pockets for 10.9 inch iPad Crossbody Bag Passport Bag with USB Port Water-resistant Anti-theft Side Bag for Men and Women,Black","1,849",4.2,268,
-/Deal-Polyester-Backpack-Computer-Resistant/dp/B08RC39B71/,"The Deal Men's 15.6 Inch Polyester Casual Laptop Backpack, Travel Computer Bag Water Resistant College Work School Bag (Blue)",399,3.4,502,
-/DZert-School-Backpacks-Cartoon-Marshall/dp/B07WKM1YZC/,DZert Kids School Bag Soft Plush Backpacks Cartoon Boys Girls Baby (2-5 Years),229,3.7,8376,
-/Impulse-Diggy-Backpack-Business-Resistant/dp/B0CJHST8BY/,Impulse Diggy Niva 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty,399,4.3,21,
-/Stylbase-Iron-man-Polyester-Character-Embossed/dp/B0BNKZJ5W6/,"Stylbase 15 inches Kids 3D Cartoon Backpack - Lightweight, Waterproof, Adjustable Shoulder Straps, 3 Compartments, Bottle Holder - Perfect for School and Outdoor Adventures",469,4.0,212,
-/DZert-Polyester-Black-White-Backpack/dp/B07GXX2BP3/,DZert Clasy Laptop Bag College Bag for Boys Girls 21 L Red Black,339,3.8,2612,
-/Gear-DOUBLE-DECKER-Resistant-Backpack/dp/B0BTJ3WTMV/,Gear Double Decker 31L Large Water Resistant Faux Leather Anti-Theft Laptop Bag/Backpack/Office Bag for Men/Women (Black),"1,095",3.9,46,
-/F-Gear-Milestone-Casual-Laptop-Backpack/dp/B08FX1R6WY/,F Gear Milestone Olive Casual 20 Ltrs Laptop Backpack (3376),"1,155",4.0,855,
-/Killer-Backpack-Compartments-Polyester-Waterproof/dp/B07CDD6YS2/,KILLER Louis 38L Large Laptop Backpack With 3 Compartments Polyester Trendy Waterproof Travel Backpack,"1,749",4.4,9469,
-/HYDER-Gamepad-Waterproof-Backpack-Everyday/dp/B0BR3KK8TR/,"HYDER 35L Latest And Trendy Stylish Waterproof College/Casual/School Bag/Backpack For Kids, Boys, Girls, Men And Women | Best Bags For Everyday Use",704,4.2,216,
-/Safari-Laptop-Backpack-Compartments-Resistant/dp/B09B27GN41/,"Safari Snap 35 Ltrs Large Laptop Backpack With 3 Compartments, Water Resistant Fabric - Blue (SNAP19CBBLU)",899,3.8,624,
-/Street27%C2%AE-Canvas-Corduroy-Tote-Multi-Purpose/dp/B0BQCBHJLP/,"Street27® Korean Canvas Corduroy Tote Bag Casual Work Shoulder Handbags | Multi-Purpose Bag |Sturdy Canvas Bag with Large Capacity | Shopping Bag for Office, College & Daily Use",474,4.0,137,
+/Travel-Duffle-Premium-Leatherette-Medium/dp/B086MZDG7H/,Fur Jaden Tan Leatherette Gym Bag for Men Women Boys Girls Travel Duffle Weekender Bag 23L,479,4.3,1843
+/TRAWOC-Travel-Backpack-Versatile-trip-Olivegreen/dp/B0CFFJ9FDQ/,"TRAWOC Travel Backpack - Versatile 30 Litre Laptop Backpack for Men & Women, Ideal Casual Bag for office and day trip.",899,5.0,1
+/Lavie-Womens-Amara-Ladies-Handbag/dp/B09WYDMMZF/,Lavie Women's Amara Round Potli | Ladies Purse Handbag,299,4.0,87
+/Half-Moon-Curiosity-Backpack-Resistant/dp/B09S3ZK3N1/,"Half Moon Curiosity 35L Water Resistant 15.6"" Laptop Bag for Men/Backpack for Men, Black | Office Bag for Men/Office Bag for Women with Padded Laptop Compartment | Rain Cover & Slim Durable Backpack",689,3.8,199
+/Gear-Fastpac-Backpack-Daypack-Black-GreyCamo/dp/B0C27NV331/,Gear Fastpac 11L Casual Backpack/Daypack/Hiking Daypack/Bag for Men/Women (Black-GreyCamo),195,1.0,2
+/Backpack-Toddler-Animal-Cartoon-New-Blue-Penguin/dp/B089WG34QZ/,Blue Tree Cute Kids Backpack Toddler Bag Plush Animal Cartoon Mini Travel Bag for Baby Girl Boy 1-6 Years (New-Blue-Penguin),266,3.8,325
+/Safari-Polycarbonate-Hardside-Trolley-Suitcase/dp/B097JKR13B/,Safari Ray 53 cms Small Size Cabin Polycarbonate Hardside Trolley Luggage/Suitcase/Trolley Bag (Wine Red),"1,799",4.5,13
+/Resistant-Anti-Theft-Crossbody-Travelling-Hands-Free/dp/B084RPQ187/,"Arctic Hunter Sling Bag for Men Stylish Chest Bag with Multip-pockets for 10.9 inch iPad Crossbody Bag Passport Bag with USB Port Water-resistant Anti-theft Side Bag for Men and Women,Black","1,849",4.2,268
+/Deal-Polyester-Backpack-Computer-Resistant/dp/B08RC39B71/,"The Deal Men's 15.6 Inch Polyester Casual Laptop Backpack, Travel Computer Bag Water Resistant College Work School Bag (Blue)",399,3.4,502
+/DZert-School-Backpacks-Cartoon-Marshall/dp/B07WKM1YZC/,DZert Kids School Bag Soft Plush Backpacks Cartoon Boys Girls Baby (2-5 Years),229,3.7,8376
+/Impulse-Diggy-Backpack-Business-Resistant/dp/B0CJHST8BY/,Impulse Diggy Niva 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty,399,4.3,21
+/Stylbase-Iron-man-Polyester-Character-Embossed/dp/B0BNKZJ5W6/,"Stylbase 15 inches Kids 3D Cartoon Backpack - Lightweight, Waterproof, Adjustable Shoulder Straps, 3 Compartments, Bottle Holder - Perfect for School and Outdoor Adventures",469,4.0,212
+/DZert-Polyester-Black-White-Backpack/dp/B07GXX2BP3/,DZert Clasy Laptop Bag College Bag for Boys Girls 21 L Red Black,339,3.8,2612
+/Gear-DOUBLE-DECKER-Resistant-Backpack/dp/B0BTJ3WTMV/,Gear Double Decker 31L Large Water Resistant Faux Leather Anti-Theft Laptop Bag/Backpack/Office Bag for Men/Women (Black),"1,095",3.9,46
+/F-Gear-Milestone-Casual-Laptop-Backpack/dp/B08FX1R6WY/,F Gear Milestone Olive Casual 20 Ltrs Laptop Backpack (3376),"1,155",4.0,855
+/Killer-Backpack-Compartments-Polyester-Waterproof/dp/B07CDD6YS2/,KILLER Louis 38L Large Laptop Backpack With 3 Compartments Polyester Trendy Waterproof Travel Backpack,"1,749",4.4,9469
+/HYDER-Gamepad-Waterproof-Backpack-Everyday/dp/B0BR3KK8TR/,"HYDER 35L Latest And Trendy Stylish Waterproof College/Casual/School Bag/Backpack For Kids, Boys, Girls, Men And Women | Best Bags For Everyday Use",704,4.2,216
+/Safari-Laptop-Backpack-Compartments-Resistant/dp/B09B27GN41/,"Safari Snap 35 Ltrs Large Laptop Backpack With 3 Compartments, Water Resistant Fabric - Blue (SNAP19CBBLU)",899,3.8,624
+/Street27%C2%AE-Canvas-Corduroy-Tote-Multi-Purpose/dp/B0BQCBHJLP/,"Street27® Korean Canvas Corduroy Tote Bag Casual Work Shoulder Handbags | Multi-Purpose Bag |Sturdy Canvas Bag with Large Capacity | Shopping Bag for Office, College & Daily Use",474,4.0,137
 /Skybags-LAPTOP-BACKPACK-BLACK-NAVY/dp/B0CJ3K6CGP/,Skybags EVO LAPTOP BACKPACK BLACK & NAVY,699,0,0
-/HARISSONS-Backpack-Black-Grey-Repellent-Organizer/dp/B08LBLKYRY/,"HARISSONS Speckle 36L Laptop Backpack for Men & Women | Ideal School Bag with Easy Access Pockets & Handy Pouch | Water Repellent 15.6"" Office Backpack with a Detailed Organizer","1,889",4.3,433,
+/HARISSONS-Backpack-Black-Grey-Repellent-Organizer/dp/B08LBLKYRY/,"HARISSONS Speckle 36L Laptop Backpack for Men & Women | Ideal School Bag with Easy Access Pockets & Handy Pouch | Water Repellent 15.6"" Office Backpack with a Detailed Organizer","1,889",4.3,433
 /Kore-K-REGULAR-GYM-BAG-Regular-Gym-Bag/dp/B09VLK27NF/,Kore Regular Gym Bag,59,2.6,2185
 /Lifelong-LLGB02-Adjustable-Shoulder-Accessories/dp/B0BW3QZBQH/,"Lifelong LLGB02 Gym Bag|Unisex Gym Bags|Adjustable Shoulder Bag for Men|Duffle Gym Bags for Men|Carry Gym Accessories|Fitness Bag|Sports &Travel Bag|Gym kit Bag (Black, 6 Months Warranty)",379,3.4,73
+/Ezee-Garbage-Bag-Pieces-Medium/dp/B06VX7PDXC/,Ezee Black Large Garbage Bags 30 Pcs | 24 x 32 Inch | 15 Pcs x Pack of 2 | Dustbin Trash Bag,119,4.3,"10,340"
+/Killer-Backpack-Compartments-Polyester-Waterproof/dp/B07C9XHZT1/,KILLER Louis 38L Large Laptop Backpack With 3 Compartments Polyester Trendy Waterproof Travel Backpack,"1,749",4.4,"9,469"
+/Lino-Perros-Womens-Lavender-Handbag/dp/B0CBQ41BYZ/,Lino Perros Women Handbag,989,4.2,"1,462"
+/EUME-Kolkata-Drawstring-Backpack-Compartment/dp/B0BX9P4MJ7/,EUME Kolkata Knight Riders 19 Ltrs Drawstring Backpack with 1 Compartment Men & Women Fit Up to 13.3 inch Laptop Black Color,199,3.5,22
+/Tabelito%C2%AE-Basic-Laptop-Sleeve-Surfacepro/dp/B09NDTW8SP/,Tabelito® Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 15.6 inch(39.6cm) Laptop Apple/Lenovo/Asus/Hp/MacBook/Thinkpad/Ideapad (Grey),257,4.1,"2,557"
+/Purple-Tree-Handcrafted-Shoulder-Oversized/dp/B0C7CXQVRX/,"The Purple Tree Handcrafted Women's Tote Bag with Vegan Leather Handles & Indian Prints, Shoulder Tote Bag and Handbag for Office and College (Pack of 1)",899,3.9,82
+/Sfane-Women-Trendy-Black-Duffel/dp/B07GCR84D9/,"Sfane Polyester 9.05 Black Men & Women Trendy Black Sports Duffle Gym Bag, Shoulder Bag",309,4.2,"1,340"
+/Half-Moon-Messenger-Multi-Pocket-Adjustable/dp/B0C5CFCLLJ/,Half Moon Urban Explorer PU Leather Stylish Side Sling Cross Body Travel Office Business Messenger Bag with Multi-Pocket Zip Closure and Adjustable Straps For Men Women,269,3.3,37
+/Nivia-6853BKGR-Polyester-Black-Grey/dp/B07NLB6FRS/,NIVIA Basic Duffle Polyester Bag/Gym Bags/Adjustable Shoulder Bag for Men/Duffle Gym Bags for Men/Fitness Bag/Carry Bags/Sports & Travel Bag/Sports Kit/Duffle Bags Travel,270,4.0,"4,174"
+/Zureni-OXO-Biodegradable-Drawstring-Anti-drip-Warehouse/dp/B0BTHC4F2T/,"Zureni OXO-Biodegradable Garbage Dustbin Bags (Large, 60 x 81 cm) Drawstring Anti-drip Trash Waste Basket Bag for Kitchen Office Warehouse Pantry (Black, Green, Blue, 3 x 15 Pcs/Roll)",139,4.2,608
+/Nivia-5227-Junior-Others-Orange/dp/B08D7QKCX5/,Nivia Polyester Pulse Bag,229,3.6,57
+/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B08TDCGCPK/,"Amazon Brand - Presto! Oxo-Biodegradable Garbage Bags, Small - 30 bags/roll (Pack of 3, Green, For Wet Waste)",189,4.3,635
+/Gear-Classic-Casual-Backpack-BKPCAMPS80304/dp/B019FBEJCO/,Gear Campus8 25L Medium Water Resistant School Bag/Casual Backpack/Daypack/College Bag/for Men/Women - Green Grey,595,4.1,"1,290"
+/BennettTM-Shoulder-Messenger-Repellent-Charcoal/dp/B09CV24TMK/,Bennett™ Mystic Unisex Adult Men's Laptop Bag 15.6 inch Side Shoulder Briefcase Satchel Messenger Business Bags for Men & Women Front Pocket for Laptop Accessories - Black (6 Month Warranty),452.,4.0,"6,870"
+/HOEXL-Expandable-Premium-Backpack-College-Tech/dp/B0C3J2RLHP/,"HOEXL 42L Expandable Premium Laptop Backpack for Men/Women for Travel, School, College-Tech Bag with USB - Bagpacker Bag, 17 inch Laptop Bag with Water-resistant, Smart Bag with Multiple Compartments","2,899",4.8,81
+/Travel-Duffle-Premium-Leatherette-Medium/dp/B086MZDG7H/,Fur Jaden Tan Leatherette Gym Bag for Men Women Boys Girls Travel Duffle Weekender Bag 23L,479,4.3,"1,843"
+/American-Tourister-Polycarbonate-FS3-004/dp/B084W559G8/,"American Tourister Georgia 3 Pc Set 55 cms + 69 cms+ 79 cms- Small, Medium & Large Polycarbonate (PC) Hard Sided 4 Spinner Wheels Trolley Bags (Midnight Blue)","9,999",4.0,"3,603"
+/ROZEN-partition-Collage-Backpack-SKYBLUE/dp/B0BRTFGG22/,"ROZEN 47 Ltrs, 46 cms School Bag Class 5-12 Large 5 partition Laptop Collage Office Travel Backpack Unisex",697,4.1,344
+/NORTH-ZONE-Restant-Office-Backpack/dp/B0CJ38KTFS/,NORTH ZONE 30L Water Restant Office Laptop Bag/Backpack for Men/Women/(Black),449,4.6,3
+/ADISA-Laptop-Backpack-Office-College/dp/B0BPVCBFM7/,ADISA 32L large laptop backpack office bag college travel back pack with rain cover,449,3.8,436
+/American-Tourister-Backpack-Organizer-Compatible/dp/B0C8649NY8/,American Tourister Shaw Large Size Unisex Laptop Backpack with Organizer Pockets| Compatible with 17 inch Laptop - Teal,"1,149",3.2,19
+/Lenovo-Comfortable-Dedicated-Compartment-4X41C94115/dp/B09QCYXZ1H/,"Lenovo 16-inch Value Lite Backpack, Comfortable, Padded Back Panel, Slim and Sleek, Dedicated Laptop Compartment, Padded Shoulder Straps for Optimal Comfort and Ergonomic Support (4X41C94115)",649,4.6,24
+/Safari-Polycarbonate-Midnight-Hardsided-RAY534WMBL/dp/B07WHLHXB9/,"Safari RAY 53 Cms Small Cabin Polypropylene Hard Sided 4 Wheels 360 Degree Wheeling System Luggage/Suitcase/Trolley Bag, Midnight Blue","1,599",4.1,"4,333"
+/Killer-Backpack-Compartments-Polyester-Waterproof/dp/B07CDD6YS2/,KILLER Louis 38L Large Laptop Backpack With 3 Compartments Polyester Trendy Waterproof Travel Backpack,"1,749",4.4,"9,469"
+/Essentials-Sleeve-Microsoft-Surface-Go/dp/B07LFWP97N/,"Gizga Essentials Laptop Bag Sleeve Case Cover Pouch with Handle for 14.1 Inch Laptop for Men & Women, Padded Laptop Compartment, Premium Zipper Closure, Water Repellent Nylon Fabric, Grey",228,4.1,"2,071"
+/Storite-Pack-Big-Underbed-Moisture/dp/B07B8K3RQK/,"Storite 2 Pack Moisture Proof Nylon Large Size Underbed Storage Bag For Clothes (54 x 46 x 28 cm) - Black, Rectangular",699,4.4,"18,117"
+/Safari-Polyester-Cms-Travel-KRYPTON17DFBLU_Blue/dp/B097L2RSF1/,Safari Polyester 24 Cms Travel Bag(KRYPTON17DFBLU_Blue),449,3.7,109
+/TRUE-EMPEROR-charging-college-CAPTAIN/dp/B0C6HZDWRQ/,"TRUE HUMAN® EMPEROR 15.6 inch laptop bag with USB charging port Laptop bag,office bag, college bags anti theft (CAPTAIN)",529,3.7,39
+/POLE-STAR-Polyester-Backpack-Compartment/dp/B07D6NXR2Q/,"POLESTAR Amaze 15.6 inch 30 LTR Casual Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Unisex Backpack, Water Resistant and Light Weight, 1 year Warranty",549,4.0,"6,169"
+/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PN8L4/,"Amazon Brand - Presto! Oxo-Biodegradable Garbage Bags, Medium -(19 x 21 inches) - 30 bags/roll (Pack of 6, Black)",289,4.4,"35,896"
+/Kleider-Travel-Business-Messenger-Shoulder/dp/B084ZHP97M/,DEIN KLEIDER Men's Nylon Messenger Bag,346,4.0,"5,542"
+/Ross-Heating-Pad-Heat-Electric-Assorted/dp/B0CJJKSXW1/,"Ross Heating Bag, Hot Water Bags for Pain Relief, Heating Pad-Heat Pouch Hot Water Bottle Bag, Electric Hot Water Bag, Heating Pad for Pain Relief- with Hand Warmer Pockets (Assorted Colors)",199,4.7,16
+/ADISA-Laptop-Backpack-Office-College/dp/B0BPVCBFM7/,ADISA 32L large laptop backpack office bag college travel back pack with rain cover,449,3.8,436
+/Hoteon-Backpack-Anti-Theft-Earphone-Resistant/dp/B08HM4TQZZ/,"Golden Wolf Backpack with Rain Cover Anti-theft Backpack with Lock 15.6-inch Laptop Bag Multi-pockets with USB Port for Business Travel College,Dark Grey","1,999",4.3,"3,623"
+/Lenovo-Carrying-15-6-Inch-Toploader-GX40Q17229/dp/B075Y6Y9H5/,Lenovo 15.6-inch Casual Laptop Briefcase T210,799,4.2,"21,704"
+/Kleider-Travel-Business-Messenger-Shoulder/dp/B084ZHP97M/,DEIN KLEIDER Men's Nylon Messenger Bag,346,4.0,"5,542"
+/Half-Moon-Hercules-Travelling-Compartment/dp/B0CJ3FDW3K/,Half Moon Hercules 55L Travelling Laptop Bag/Rucksack Backpack for Luggage Travel Journey Trekking Hiking Bags for Men Women Boys and Girls with Laptop Compartment & Rain Cover (Black),689,5.0,4
+/Number-Backpack-Compartment-Charging-Organizer/dp/B09VTC876Z/,"FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",800,4.1,"6,653"
+/Martucci-Waterproof-Backpack-College-Business/dp/B0BRJRVH6D/,Martucci Jersey 45L Casual Waterproof Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Unisex Travel Backpack,809,3.8,273
+/Bagneeds-Synthetic-Leather-Briefcase-Messenger/dp/B0855F8174/,Bagneeds Men's Black Synthetic Leather Briefcase Best Laptop Messenger Bag Satchel for Men,683,4.1,"4,785"
+/BACKPACK-OUTDOOR-TREKKING-CAMPING-RUCKSACK/dp/B0BR3YZ5BV/,LARGE 60L TRAVEL BACKPACK FOR OUTDOOR SPORT HIKING TREKKING BAG CAMPING RUCKSACK,499,3.8,119
+/Safari-Laptop-Backpack-Compartments-Resistant/dp/B09B27CYC4/,"Safari Snap 35 Ltrs Large Laptop Backpack With 3 Compartments, Water Resistant Fabric - Black (SNAP19CBBLK)",999,3.8,355
+/Step-Backpack-Small-Water-Repellant/dp/B088X9M73T/,"Mi Step Out 12 L Mini Backpack (Small Size, Sky Blue, Water Repellant)",229,4.1,"10,270"
+/Impulse-IMP-Backpack-Resistant-Navy/dp/B0CJHXH8M8/,Impulse IMP Omega 45L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty,510,4.7,11
+/Handcuffs-Multifunctional-Maternity-Backpack-Nursing/dp/B09413KB4K/,Handcuffs Baby Diaper Bag Multifunctional Maternity Bags New Mom Dad Travel Backpack For Baby Care Nursing (Black),"1,186",4.2,555
+/Gear-Inspired-Moving-training-DUFINDAVMVG05/dp/B08DV7YZL6/,Gear Inspired Alive Moving 33L Large Water Resistant Travel Duffle Bag/Gym Bag/Sports Duffle for Men/Women (Blue),399,4.3,"1,338"
+/Zipline-Nexa-Resistant-Bagpack-Backpack/dp/B08WQ668WJ/,Zipline Unisex Casual Polyester 36 L Backpack School Bag Women Men Boys Girls Children Daypack College Bag Book School Sports Bag,843,3.6,"1,044"
+/DARK-HORSE-Briefcase-Messenger-Compartment/dp/B0BJZF92F6/,"DARK HORSE Laptop Bag Leather Briefcase 15.6 Inch Messenger Bag Satchel for Men, Padded Laptop Compartment 12 Liters , Water Resistant Shoulder Bag with Strap, Durable Office Bag, for Laptop",799,4.0,153
+/Impulse-IMP-linear-Resistant-Navy/dp/B0CJJ15CM7/,Impulse IMP linear 45L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty,510,5.0,4
+/Skybags-Polycarbonate-Turquoise-Hardsided-MINT55TTRQ/dp/B078GR3YHR/,Skybags Mint 55 cms Small Cabin Polycarbonate Hardsided 4 Spinner Wheels Luggage/Suitcase/Trolley Bag- Turquoise Blue,"2,619",4.3,"4,310"
+/Essentials-Sleeve-Microsoft-Surface-Go/dp/B07LFWP97N/,"Gizga Essentials Laptop Bag Sleeve Case Cover Pouch with Handle for 14.1 Inch Laptop for Men & Women, Padded Laptop Compartment, Premium Zipper Closure, Water Repellent Nylon Fabric, Grey",228,4.1,"2,071"
+/Martucci-Backpack-College-Reflective-Airport/dp/B0B7DVC3TL/,Martucci Large 35 L Backpack Spacy Unisex/College/School/Travel Backpack with Rain Cover and Reflective Strip,699,4.0,"1,343"
+/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B08TD6BN7Y/,"Presto! Oxo-Biodegradable Garbage Bags, Medium - 30 Bags/Roll (Pack of 3, Green, For Wet Waste, plastic)",209,4.3,"1,198"
+/Boldfit-Travel-Accessories-Purse-Mobile/dp/B0BJZQ3ZR9/,Boldfit Waist Bag for Men Fanny Pack for Women Fanny Pack for Men Waist Bag for Women Chest Bag for Women Waist Pouch for Men Waist Bag for Boys Waist Bags for Girls Fanny Bag - Black,349,4.1,"1,296"
+/Artistix-Alpine-Laptop-Backpack-Business/dp/B08SVV5HZY/,"ARTISTIX Alpine Business Class Series | Anti Theft Laptop Backpack (32 Litre, 15.6 inch) (Black)","1,783",4.4,"1,230"
+/Safari-Polycarbonate-Hardsided-Cabin-Luggage/dp/B093LKCQKD/,Safari RAY 53 Cms Small Cabin Polycarbonate (PC) Hard Sided 4 Wheels 360 Degree Wheeling System Luggage/Suitcase/Trolley Bag (Cyan),"1,699",4.2,"1,110"
+/Half-Moon-Hercules-Travelling-Compartment/dp/B0CJ3FDW3K/,Half Moon Hercules 55L Travelling Laptop Bag/Rucksack Backpack for Luggage Travel Journey Trekking Hiking Bags for Men Women Boys and Girls with Laptop Compartment & Rain Cover (Black),689,5.0,4
+/Corduroy-Reusable-Shopping-Washable-Shoulder/dp/B0BNX437F8/,PALAY® Tote Bags For Women Bag Corduroy Large Capacity Reusable Shopping Bag Washable Shoulder Bags HandBags for School Work Shopping Travel Daily Use Grocery,488,4.3,100
+/AmazonBasics-Vacuum-Compression-Storage-Bags/dp/B07RSCPH4N/,"amazon basics Vacuum Compression Storage Bags with Hand Pump - Large, 5-Pack",599,4.4,"11,738"
+/Number-Backpack-Compartment-Charging-Organizer/dp/B09VTC876Z/,"FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",800,4.1,"6,653"
+/WILDHORN-Backpack-Compartment-Business-Stitching/dp/B09QL81ZHB/,"WildHorn 31L Laptop Backpack for Men/Women I Fits upto 15.6"" Laptop I Waterproof I Travel/Business/College Bookbags",599,4.1,"1,972"
+/Dell-Pro-Slim-Backpack-15/dp/B07PMQTB6T/,"Dell Pro Slim Backpack 15 - PO1520PS - Fits Most laptops up to 38.1 cm (15 inches, Black)","1,599",4.3,499
+/TRUE-HUMAN-Anti-Theft-charging-combination/dp/B09H7PK5ML/,TRUE HUMAN® Anti-Theft backpack with USB charging port and combination Number lock Laptop bag/office bag/travel bag for men and women,499,3.8,"2,012"
+/Bennett-Polyester-Drax-Ultrabook-Surfacepro/dp/B091NZ9MYB/,Bennett Khadi and Polyester Drax Laptop Bag Sleeve Case Cover Pouch for 15/15.6 inches Laptop Apple/Dell/Lenovo/ASUS/Hp/Samsung/Mi/MacBook/Ultrabook/Thinkpad/Idea Pad/Surfacepro for Laptops (Blue),257,4.1,"4,346"
+/Wesley-Milestone-Waterproof-Backpack-Business/dp/B084JGJ8PF/,Wesley Milestone 2.0 Casual Waterproof Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack (Dimensions:13x18 inches) (Compatible with 15.6 inch laptop) 30 L (Blue & black),499,4.3,"13,223"
+/FUR-JADEN-Leatherette-Polypropylene-DUFF05/dp/B07M9BRCQ5/,Fur Jaden Brown Textured Leatherette Stylish & Spacious Weekender Duffle Bag for Travel,899,4.3,"6,874"
+/American-Tourister-AMT-SCH-02/dp/B07CJCGM1M/,American Tourister Fizz Large Size 32 Ltrs Casual Backpack (BLACK),"1,099",4.0,"56,348"
+/Lenovo-15-6-Inches-Everyday-Backpack/dp/B08R7RPVJF/,"Lenovo 15.6"" (39.62cm) Slim Everyday Backpack, Made in India, Compact, Water-resistant, Organized storage:Laptop sleeve,tablet pocket,front workstation,2-side pockets,Padded adjustable shoulder straps",449,4.4,"5,258"
+/Wesley-Spartan-Hiking-Raincover-Organiser/dp/B098QFF5TJ/,Wesley Spartan Unisex Travel Hiking Laptop Bag fits Upto 17.3 inch with Raincover and Internal Organiser Backpack Rucksack College Bag,689,4.1,"1,951"
+/Half-Moon-Backpack-Luggage-Compartment/dp/B09VCLZ3K4/,Half Moon Large 37L Laptop Bag Backpack for menं Women Boys and Girls Luggage Travel Bags with 17.3 inches Laptop Compartment & Rain Cover,689,3.9,"3,843"
+/Number-Backpack-Compartment-Charging-Organizer/dp/B09VTDMRY7/,"FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",799,4.1,"6,655"
+/ADISA-BP010-Weight-Casual-Backpack/dp/B07MXL986B/,ADISA 32 Ltrs Water Resistant Casual Travel Bagpack/College Backpack/School Office Bag for Men and Women,374,3.9,"4,291"
+/TRUE-HUMAN-Anti-Theft-backpack-charging/dp/B09QJ7ZF2Y/,TRUE HUMAN EMPEROR® Anti-Theft backpack With USB charging Port Laptop bag/Office bag/college bag/travel bag with anti -theft back pocket (LEGEND),529,3.7,"2,766"
+/Wesley-Milestone-Waterproof-Backpack-Business/dp/B085S444JV/,"Wesley Milestone 2.0 Casual Waterproof Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack (Dimensions:13x18 inches) (Compatible with 15.6"" laptop) 30 L, Charcoal black",499,4.3,"13,223"
+/Impulse-Belux-Backpack-Resistant-Black/dp/B0CJHL12N9/,Impulse Belux 45L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty,510,5.0,11
+/Half-Moon-Waterproof-Backpack-Students/dp/B085MHDJ93/,"Half Moon 35L Water Resistant 15.6 inch Laptop Bag/ Backpack, Navy Blue | Office Bag for Men and Women with Padded Laptop Compartment | Rain Cover & Reflective Strips",549,3.9,"17,605"
+/Backpack-Small-Black-Water-Repellant/dp/B088XB5XY8/,"Mi Step Out 12 L Mini Backpack (Small Size, Black, Water Repellant)",229,4.1,"10,270"
+/Safari-Laptop-Backpack-Raincover-college/dp/B097JH4V5G/,"Safari Omega 30L Laptop Backpack with Raincover, school bag for boys and girls, college bag, office bag, travel bag for men and women, Teal",699,3.9,155
+/Gear-Classic-Leather-Backpack-LBPCLSLTH0519/dp/B07G4JQX2F/,Gear Classic 20L Small Faux Leather Water Resistant Anti Theft Laptop Bag/Backpack for Men/Women (Navy-Tan),799,4.4,"6,797"
+
