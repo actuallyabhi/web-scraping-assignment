@@ -4,7 +4,6 @@ import requests
 import random
 import time
 import os.path
-import logging  
 
 BASE_URL = "https://www.amazon.in"
 HEADERS =  ({
@@ -55,6 +54,7 @@ def scrape_catalogue(page):
         print(f"Page {page} scraped successfully")
     except Exception as e:
         print(e)
+        ## Enhancement: implement logging
         print(f"Some error occurred while scraping page {page}")
         return
       
@@ -94,6 +94,7 @@ def scrape_product_desc(df,i):
             for x in manufacturer:
                 if (x.text.strip().startswith("Manufacturer")):
                     df.at[i,'manufacturer'] = x.text.split(":")[1].replace("\n","").replace("  ", "").strip().encode('ascii', 'ignore').decode()
+                    #### Note: encoding string to ascii to remove the special characters
                     # print(x.text.split(":")[1].replace("\n","").replace("  ", "").rstrip().encode('ascii', 'ignore').decode())
                     break
             
@@ -108,8 +109,9 @@ def scrape_product_desc(df,i):
         print(f"Product {i+1} scraped successfully\n ")
         
     except Exception as e:
+        ## Enhancement: implement logging
         print(e)
-        print(f"Some error occurred while scraping product {i}\n\n")
+        print(f"Some error occurred while scraping product {i+1}\n\n")
         return
 
 # function to generate random delay
@@ -123,10 +125,10 @@ if __name__ == "__main__":
     #############################################
     ## Scraping catalogue
     #############################################
-    # for page in range(1, 21):
-    #     scrape_catalogue(page)
-    #     random_delay()
-    # print("Catalogue scraping completed")
+    for page in range(1, 21):
+        scrape_catalogue(page)
+        random_delay()
+    print("Catalogue scraping completed")
 
 
     #############################################
@@ -140,11 +142,12 @@ if __name__ == "__main__":
     df["product_description"] = ""
     df["asin"] = ""
     df["manufacturer"] = ""
-    i = 67
+    i = 0
     while (i < len(df)):
         scrape_product_desc(df,i)
         random_delay(upper_bound=25)
         i += 1
-    
+
+    print(f"Finished scraping {i+1} products")
 
 
